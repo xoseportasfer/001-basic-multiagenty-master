@@ -107,7 +107,8 @@ analista_app = workflow.compile()
 
 # 7. Ejecución
 if __name__ == "__main__":
-    tema = "Impacto de la computación cuántica en la criptografía actual"
+    #tema = "Impacto de la computación cuántica en la criptografía actual"
+    tema = "La paradoja de la tolerancia de Karl Popper"
     inputs = {"messages": [HumanMessage(content=f"Realiza un análisis crítico sobre: {tema}")]}
     
     print(f"--- Iniciando Analista de Fuentes y Contenidos ---")
