@@ -99,3 +99,175 @@ Por qué destaca: Acelera el ciclo de desarrollo (SDLC) y reduce drásticamente 
 Flujo: Un agente describe una idea de invención, otro busca en registros de patentes similares para evitar infracciones y un tercero redacta un borrador técnico inicial para presentar ante una oficina de patentes.
 
 Por qué destaca: Combina investigación técnica profunda con redacción formal legal, un nicho muy bien pagado.
+
+
+
+
+
+
+
+Operaciones e Inteligencia de Negocio
+21. Detective de Fraude en Transacciones (FinTech/eCommerce)
+
+Flujo: Un agente analiza el patrón de compra histórico, otro verifica la geolocalización y reputación de la IP, y un tercero decide si bloquear la transacción o solicitar doble factor de autenticación.
+
+Por qué destaca: Crítico para reducir pérdidas operativas y mejorar la seguridad del cliente.
+
+22. Optimizador de Precios Dinámicos (Revenue Management)
+
+Flujo: Un agente monitorea la demanda en tiempo real, otro rastrea los precios de la competencia y un tercero ajusta los márgenes según el stock disponible para maximizar el beneficio.
+
+Por qué destaca: Ideal para hoteles, aerolíneas o retail de alta rotación.
+
+23. Gestor de Licitaciones y Concursos Públicos (B2G)
+
+Flujo: Un agente rastrea boletines oficiales buscando licitaciones, otro extrae los requisitos técnicos obligatorios y un tercero evalúa la capacidad de la empresa para cumplir antes de avisar al equipo comercial.
+
+Por qué destaca: Automatiza la búsqueda de oportunidades de millones de euros.
+
+24. Auditor de Gastos Corporativos y Viáticos
+
+Flujo: Un agente extrae datos de tickets/facturas con OCR, otro los cruza con la política de gastos de la empresa y un tercero marca irregularidades para revisión humana.
+
+Por qué destaca: Mejora el control administrativo y detecta fugas de capital.
+
+Ingeniería y Producto
+25. Arquitecto de Infraestructura Cloud (CloudOps)
+
+Flujo: Un agente recibe un diagrama o descripción técnica, otro calcula el coste estimado en AWS/Azure/GCP y un tercero sugiere cambios para optimizar costes (Reserved instances, Spot).
+
+Por qué destaca: FinOps es una tendencia al alza en empresas que buscan reducir facturas de nube.
+
+26. Evaluador de Deuda Técnica (Software Quality)
+
+Flujo: Un agente escanea un repositorio de código, otro identifica funciones obsoletas o mal documentadas y un tercero prioriza qué refactorizar basándose en el impacto en el sistema.
+
+Por qué destaca: Ayuda a los CTOs a planificar sprints de mantenimiento con datos reales.
+
+27. Generador de Prototipos de UI/UX (Frontend Tech)
+
+Flujo: Un agente recibe una descripción de funcionalidad, otro genera el código en React/Tailwind y un tercero valida que el diseño cumpla con las guías de accesibilidad (WCAG).
+
+Por qué destaca: Acelera drásticamente la fase de diseño y desarrollo inicial.
+
+28. Moderador Automático de Contenido en Comunidades
+
+Flujo: Un agente detecta lenguaje tóxico o spam, otro analiza el contexto (humor, sarcasmo) y un tercero decide si eliminar el post o simplemente avisar al usuario.
+
+Por qué destaca: Escalabilidad extrema para plataformas con millones de usuarios.
+
+Recursos Humanos y Talento
+29. Headhunter de Talento Pasivo (Talent Acquisition)
+
+Flujo: Un agente busca perfiles en plataformas públicas según una descripción de puesto, otro analiza la trayectoria para predecir si el candidato está abierto a cambios y un tercero redacta una invitación única.
+
+Por qué destaca: Pasa de un reclutamiento reactivo a uno proactivo de alta precisión.
+
+30. Analista de Clima Laboral y Burnout
+
+Flujo: Un agente anonimiza encuestas de empleados, otro extrae temas recurrentes de insatisfacción y un tercero propone un plan de acción para el departamento de RRHH.
+
+Por qué destaca: Enfocado en la retención de talento y bienestar corporativo.
+
+31. Planificador de Carreras y Sucesión
+
+Flujo: Un agente mapea las habilidades de un empleado, otro busca las vacantes de liderazgo futuras y un tercero diseña el plan de formación necesario para cerrar la brecha.
+
+Por qué destaca: Asegura la continuidad del liderazgo en grandes corporaciones.
+
+Ventas y Customer Success
+32. Agente de "Win-Back" para Clientes Perdidos
+
+Flujo: Un agente analiza por qué un cliente se dio de baja, otro revisa qué nuevas funciones tenemos ahora que no teníamos antes y un tercero diseña una oferta de re-entrada irresistible.
+
+Por qué destaca: Recuperar clientes es mucho más barato que adquirir nuevos.
+
+33. Analista de Feedback de Producto (User Research)
+
+Flujo: Un agente recopila reseñas en App Store/Play Store, otro las categoriza por "bugs" o "features" y un tercero genera un reporte de prioridades para el Product Manager.
+
+Por qué destaca: Convierte miles de quejas en una hoja de ruta clara de producto.
+
+34. Especialista en Onboarding de Clientes B2B (Customer Success)
+
+Flujo: Un agente detecta el cierre de una venta, otro configura el espacio de trabajo inicial para el cliente y un tercero envía una guía de "Primeros Pasos" basada en el sector del cliente.
+
+Por qué destaca: Reduce el churn inicial garantizando que el cliente vea valor rápido.
+
+Legal, Riesgo y Cumplimiento
+35. Monitor de Cambios Regulatorios Mundiales
+
+Flujo: Un agente vigila cambios en leyes internacionales, otro analiza cómo afectan a la operativa actual de la empresa y un tercero envía alertas a los departamentos afectados.
+
+Por qué destaca: Vital para multinacionales operando en múltiples jurisdicciones.
+
+36. Validador de Identidad y KYC (Know Your Customer)
+
+Flujo: Un agente verifica documentos de identidad, otro cruza los datos con listas de sanciones internacionales y un tercero emite un veredicto de riesgo para la apertura de cuentas.
+
+Por qué destaca: Automatización de procesos bancarios críticos.
+
+Marketing y Expansión
+37. Localizador de Contenido para Mercados Internacionales
+
+Flujo: Un agente traduce el contenido, otro adapta las referencias culturales al mercado destino (transcreación) y un tercero optimiza las keywords para el SEO local de ese país.
+
+Por qué destaca: Evita los errores comunes de traducción literal que dañan la marca.
+
+38. Buscador de Influencers y Colaboraciones
+
+Flujo: Un agente busca creadores de contenido, otro analiza el engagement y la demografía de su audiencia y un tercero redacta una propuesta de colaboración alineada con los valores del creador.
+
+Por qué destaca: Profesionaliza y escala el marketing de influencia.
+
+Estrategia y Ejecución
+39. Consultor de Preparación para Inversiones (Pitch Deck Reviewer)
+
+Flujo: Un agente analiza el pitch deck, otro actúa como un "Venture Capitalist" crítico haciendo preguntas difíciles y un tercero sugiere mejoras en la narrativa financiera.
+
+Por qué destaca: Una herramienta de alto valor para startups en ronda de financiación.
+
+40. Gestor de Proyectos con IA (AI Project Manager)
+
+Flujo: Un agente recibe actas de reuniones, otro extrae las tareas accionables y un tercero las asigna automáticamente en Jira o Trello tras verificar la carga de trabajo del equipo.
+
+Por qué destaca: Elimina la fricción administrativa de la gestión de proyectos.
+
+
+
+
+1. Sistema Autónomo de Migración de Legacy a Microservicios
+Flujo: Un agente escanea monolitos antiguos (ej. Java 8 o Python 2.7), otro identifica fronteras de dominio y dependencias críticas, y un tercero genera sugerencias de refactorización hacia una arquitectura de microservicios o contenedores.
+
+Por qué destaca: Ataca uno de los problemas más costosos y lentos de las grandes empresas: la modernización de sistemas antiguos sin romper la lógica de negocio.
+
+2. Agente de Evaluación y Prevención de Ciberseguridad (SAST)
+Flujo: Un agente realiza el escaneo de seguridad en busca de secretos expuestos (API Keys), otro analiza el código contra las vulnerabilidades del OWASP Top 10 y un tercero redacta un "Security Report" con parches específicos.
+
+Por qué destaca: Eleva el proyecto de auditoría a un nivel de "Security-as-Code", algo vital para cualquier pipeline de CI/CD moderno.
+
+3. Generador Automático de Pruebas Unitarias y de Integración (TDD-Agente)
+Flujo: Un agente analiza una nueva funcionalidad en el código, otro diseña los "Edge Cases" (casos límite) y un tercer agente escribe automáticamente los scripts de prueba en Pytest o Jest.
+
+Por qué destaca: Reduce drásticamente el tiempo que los desarrolladores pasan escribiendo tests, garantizando que el código nuevo nazca con una cobertura mínima de calidad.
+
+4. Arquitecto de Infraestructura como Código (IaC Generator)
+Flujo: Un agente lee la arquitectura de una aplicación de software, otro identifica los recursos de nube necesarios (BD, caché, balanceadores) y un tercero genera los archivos de Terraform o CloudFormation listos para desplegar.
+
+Por qué destaca: Demuestra una integración total entre el desarrollo (Dev) y las operaciones (Ops), permitiendo el despliegue automático de infraestructura basada en el código de la app.
+
+5. Analista de Performance y Optimización de Consultas (DB Auditor)
+Flujo: Un agente monitoriza los logs de acceso a la base de datos o lee los modelos de datos (ORM), otro identifica consultas lentas o "n+1 queries" y un tercero sugiere índices o cambios en la estructura de la base de datos.
+
+Por qué destaca: Es una aplicación meta-técnica que resuelve problemas de escalabilidad antes de que lleguen a producción, ahorrando costes de computación en la nube.
+
+
+
+
+
+
+
+7. Detector de Lógica de Negocio Duplicada (Anti-Copypaste)
+Flujo: Un agente busca fragmentos de código similares en diferentes módulos, otro evalúa si pueden unificarse en una función común, y un tercero crea el nuevo módulo compartido y actualiza las referencias.
+
+Destaca en: Aplicación extrema del principio DRY (Don't Repeat Yourself).

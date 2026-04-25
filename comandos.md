@@ -14,3 +14,7 @@ poetry install
 poetry run python mi_script.py
 
 
+DuckDuckGo
+
+pip install -U ddgs
+
