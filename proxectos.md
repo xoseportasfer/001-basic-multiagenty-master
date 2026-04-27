@@ -271,3 +271,363 @@ Por qué destaca: Es una aplicación meta-técnica que resuelve problemas de esc
 Flujo: Un agente busca fragmentos de código similares en diferentes módulos, otro evalúa si pueden unificarse en una función común, y un tercero crea el nuevo módulo compartido y actualiza las referencias.
 
 Destaca en: Aplicación extrema del principio DRY (Don't Repeat Yourself).
+
+
+
+
+
+Eficiencia Operativa y Administración
+41. Gestor de Reservas de Activos Compartidos (Shared Resources)
+
+Flujo: Un agente recibe una solicitud de recurso (sala, coche de empresa, equipo técnico), otro verifica la disponibilidad y prioridad del solicitante, y un tercero optimiza el calendario para reducir tiempos muertos.
+
+Valor: Maximiza el retorno de inversión en activos físicos de la oficina.
+
+42. Analista de Contratos de Proveedores (SaaS Management)
+
+Flujo: Un agente rastrea todas las suscripciones de software, otro detecta funciones duplicadas entre distintas herramientas y un tercero genera un plan de consolidación para ahorrar costes.
+
+Valor: Elimina el "Shadow IT" y reduce gastos innecesarios en licencias.
+
+43. Reconstructor de Memoria Corporativa (Post-Mortem Agent)
+
+Flujo: Tras el cierre de un proyecto, un agente analiza hilos de chat y correos, otro identifica los errores cometidos y un tercero redacta un "Libro de Lecciones Aprendidas" para el próximo equipo.
+
+Valor: Evita que la empresa cometa los mismos errores dos veces.
+
+44. Agente de Soporte Técnico de Nivel 0 (IT Helpdesk)
+
+Flujo: Un agente recibe el ticket de error, otro busca en la base de conocimientos interna y manuales, y un tercero redacta una guía paso a paso para que el empleado lo solucione solo antes de escalar a un humano.
+
+Valor: Descongestiona drásticamente el departamento de IT.
+
+Gestión de Datos y Conocimiento
+45. Curador de Conocimiento Interno (Enterprise Wiki Janitor)
+
+Flujo: Un agente detecta páginas de la Wiki interna desactualizadas, otro busca en Slack/Jira la información más reciente sobre ese tema y un tercero propone una actualización automática del artículo.
+
+Valor: Mantiene la documentación viva y veraz.
+
+46. Anonimizador de Datos para Testeo (Data Privacy)
+
+Flujo: Un agente extrae datos de la base de datos de producción, otro identifica información sensible (PII) y un tercero genera un set de datos sintéticos pero realistas para que los desarrolladores prueben sin riesgos legales.
+
+Valor: Garantiza el cumplimiento de GDPR en entornos de desarrollo.
+
+47. Analista de Brechas de Información (Market Gap Finder)
+
+Flujo: Un agente analiza las preguntas más frecuentes de los clientes que NO tienen respuesta en el sitio web, otro busca la información técnica internamente y un tercero crea el contenido para cubrir ese vacío.
+
+Valor: Mejora el autoservicio del cliente y el SEO técnico.
+
+Finanzas y Ventas Enterprise
+48. Perfilador de Cuentas Estratégicas (ABM - Account Based Marketing)
+
+Flujo: Un agente analiza las noticias financieras de una empresa objetivo, otro identifica sus retos actuales y un tercero sugiere qué productos de nuestra empresa resuelven esos problemas específicos.
+
+Valor: Permite una prospección de ventas de "guante blanco" altamente efectiva.
+
+49. Auditor de Ética en la Cadena de Suministro
+
+Flujo: Un agente rastrea noticias de proveedores internacionales, otro busca denuncias de malas prácticas laborales o ambientales y un tercero emite un "Score de Riesgo Ético".
+
+Valor: Protege la reputación de la marca frente a crisis de responsabilidad social.
+
+50. Optimizador de Flujo de Caja (Cash Flow Predictor)
+
+Flujo: Un agente analiza facturas pendientes de pago, otro evalúa el historial de puntualidad de cada cliente y un tercero predice el saldo bancario de la empresa a 30 días vista.
+
+Valor: Crucial para la supervivencia de PYMEs y startups.
+
+Recursos Humanos y Cultura
+51. Facilitador de Mentorías Cruzadas (Internal Networking)
+
+Flujo: Un agente mapea las habilidades que un empleado quiere aprender, otro busca a un experto interno con esas habilidades y un tercero agenda una reunión de introducción personalizada.
+
+Valor: Fomenta la retención y la transferencia de conocimiento interno.
+
+52. Diseñador de Gamificación para Ventas
+
+Flujo: Un agente monitorea el CRM, otro crea desafíos semanales basados en objetivos rezagados y un tercero redacta los mensajes de motivación y actualización del ranking para el equipo.
+
+Valor: Aumenta la motivación de los equipos comerciales mediante dinámicas de juego.
+
+53. Analista de Diversidad e Inclusión en Contratación
+
+Flujo: Un agente analiza las descripciones de puestos para detectar sesgos de género/edad, otro revisa las estadísticas de candidatos filtrados y un tercero sugiere cambios para atraer un talento más diverso.
+
+Valor: Mejora los estándares de ESG y la cultura empresarial.
+
+Innovación y Producto
+54. Radar de Patentes de la Competencia
+
+Flujo: Un agente vigila nuevas publicaciones en oficinas de patentes, otro analiza cómo bloquean nuestra hoja de ruta y un tercero propone vías tecnológicas alternativas para evitar infracciones.
+
+Valor: Defensa estratégica de la propiedad intelectual.
+
+55. Sintetizador de Feedback de Beta-Testers
+
+Flujo: Un agente recopila vídeos y notas de usuarios probando un producto, otro detecta los puntos de fricción (donde el usuario duda) y un tercero propone cambios en la interfaz (UI).
+
+Valor: Acelera el desarrollo de productos centrados en el usuario.
+
+56. Evaluador de Viabilidad de Nuevas Ideas (Internal Incubator)
+
+Flujo: Un empleado propone una idea, un agente busca si ya existe algo igual, otro estima el coste de un MVP y un tercero genera un informe de "Go/No-Go" para la dirección.
+
+Valor: Filtra la innovación para invertir solo en lo que tiene potencial.
+
+Seguridad y Cumplimiento Avanzado
+57. Monitor de Reputación de Empleados Clave
+
+Flujo: Un agente vigila menciones públicas de directivos, otro analiza posibles riesgos de seguridad personal o ataques de ingeniería social y un tercero envía recomendaciones de privacidad al directivo.
+
+Valor: Protege a los activos más visibles de la empresa.
+
+58. Validador de Cumplimiento de Marca (Brand Police)
+
+Flujo: Un agente escanea todas las nuevas piezas gráficas o textos de la empresa, otro verifica que usen los colores, logos y tono de voz correctos, y un tercero marca las correcciones necesarias.
+
+Valor: Mantiene la coherencia de marca a escala global.
+
+59. Gestor de Respuestas a Cuestionarios de Seguridad (RFP/RFI)
+
+Flujo: Un cliente envía un cuestionario de seguridad de 200 preguntas, un agente busca respuestas en auditorías pasadas y un tercero redacta el borrador de respuesta listo para revisión del CISO.
+
+Valor: Ahorra cientos de horas al equipo de seguridad y ventas.
+
+60. Planificador de Simulacros de Desastre (BCP - Business Continuity)
+
+Flujo: Un agente simula un escenario de fallo (ej. caída de servidor principal), otro analiza qué departamentos quedarían paralizados y un tercero diseña un protocolo de actuación inmediata.
+
+Valor: Asegura que la empresa sepa qué hacer en caso de emergencia real
+
+
+1. Guardián de Cumplimiento Normativo (RegTech)
+Flujo: Un agente rastrea cambios en boletines oficiales y leyes nacionales; otro analiza el código interno de la empresa; un tercero detecta brechas de cumplimiento (gaps).
+
+Valor: Evita multas millonarias al actualizar políticas corporativas antes de que las nuevas leyes entren en vigor.
+
+2. Centinela de "Greenwashing" Corporativo
+Flujo: Un agente analiza informes de sostenibilidad (ESG) de la competencia; otro busca datos reales de emisiones o consumo energético en fuentes externas; un tercero marca inconsistencias entre lo prometido y lo ejecutado.
+
+Valor: Protege la credibilidad ante inversores y evita sanciones por publicidad engañosa.
+
+3. Analista de Riesgo de Desinformación (Brand Safety)
+Flujo: Un agente rastrea menciones de la marca en redes sociales y foros; otro identifica patrones de "bots" o campañas de desprestigio coordinadas; un tercero evalúa la veracidad de las noticias virales negativas.
+
+Valor: Permite una respuesta de PR inmediata antes de que una noticia falsa se convierta en una crisis reputacional.
+
+4. Detector de Fragilidad en Suministros Críticos
+Flujo: Un agente monitorea eventos geopolíticos (guerras, huelgas, puertos bloqueados); otro analiza la salud financiera de proveedores clave; un tercero sugiere rutas o proveedores alternativos ante un riesgo de ruptura.
+
+Valor: Garantiza la continuidad del negocio mediante la predicción de desabastecimiento.
+
+5. Auditor de Sesgo en Algoritmos de Selección
+Flujo: Un agente revisa los perfiles descartados por la IA de RRHH; otro analiza los criterios de éxito de los contratados; un tercero emite un informe de posibles sesgos de género, edad o raza.
+
+Valor: Asegura contrataciones justas y previene demandas por discriminación.
+
+6. Monitor de Fuga de Propiedad Intelectual
+Flujo: Un agente rastrea repositorios de código públicos (GitHub), foros de filtraciones y la dark web; otro compara el código o documentos encontrados con la propiedad de la empresa; un tercero activa protocolos de cierre.
+
+Valor: Mitiga el impacto de filtraciones de secretos industriales o datos de clientes.
+
+7. Evaluador de "Cultura Tóxica" en M&A (Fusiones y Adquisiciones)
+Flujo: Un agente analiza reseñas de empleados en portales (Glassdoor, LinkedIn) de una empresa objetivo; otro busca litigios laborales pasados; un tercero califica la compatibilidad cultural.
+
+Valor: Reduce el riesgo de fracaso en fusiones debido a la fuga de talento tras la compra.
+
+8. Rastreador de Corrupción en Licitaciones Públicas
+Flujo: Un agente descarga pliegos de condiciones estatales; otro busca vínculos históricos entre los funcionarios que adjudican y las empresas ganadoras; un tercero detecta cláusulas "a medida".
+
+Valor: Aumenta la transparencia institucional y la competencia justa.
+
+9. Inspector de Ética en Inversiones (Crypto/Fintech)
+Flujo: Un agente audita el smart contract de un nuevo token; otro analiza la billetera de los fundadores para detectar movimientos sospechosos (dumping); un tercero emite una alerta de "Rug Pull" o estafa.
+
+Valor: Protege el capital de fondos de inversión en mercados de alta volatilidad y opacidad.
+
+10. Vigilante de Precios Predatorios y Carteles
+Flujo: Un agente monitoriza precios de competidores en tiempo real; otro detecta patrones de subidas o bajadas idénticas y simultáneas; un tercero evalúa si hay una estrategia para asfixiar a pequeños comercios.
+
+Valor: Ayuda a las autoridades de competencia o a asociaciones de consumidores a detectar monopolios de facto.
+
+
+
+1. Monitor de Farmacovigilancia y Eventos Adversos
+Flujo: Un agente rastrea menciones en redes sociales y foros de pacientes sobre un medicamento; otro busca reportes médicos en bases de datos oficiales (como VAERS o EudraVigilance); un tercero correlaciona los datos para emitir una alerta temprana de efectos secundarios no detectados.
+
+Por qué destaca: Automatiza la seguridad del paciente y cumple con normativas críticas de reporte post-comercialización.
+
+2. Analista de Pipeline y Patentes de la Competencia
+Flujo: Un agente monitorea registros de ensayos clínicos (ClinicalTrials.gov); otro analiza nuevas solicitudes de patentes en la oficina de marcas; un tercero genera un reporte de "Amenaza de Genéricos" o lanzamientos inminentes de competidores.
+
+Por qué destaca: Esencial para la inteligencia estratégica y la protección de cuota de mercado.
+
+3. Asistente de Reclutamiento para Ensayos Clínicos
+Flujo: Un agente analiza los criterios de inclusión/exclusión de un nuevo estudio; otro escanea bases de datos de pacientes (anonimizadas) o registros hospitalarios; un tercero redacta una invitación personalizada para los médicos investigadores.
+
+Por qué destaca: El reclutamiento es el cuello de botella más costoso en el desarrollo de fármacos; esto acelera el Time-to-Market.
+
+4. Verificador de Cumplimiento en Publicidad Médica
+Flujo: Un agente lee los materiales de marketing de un visitador médico; otro los compara con la ficha técnica aprobada por la agencia reguladora (EMA/FDA); un tercero marca frases que podrían considerarse "promociones fuera de indicación" (off-label).
+
+Por qué destaca: Evita multas multimillonarias por malas prácticas en la promoción de medicamentos.
+
+5. Optimizador de Suministros Sensibles (Cold Chain)
+Flujo: Un agente monitorea sensores de temperatura en tiempo real durante el transporte; otro analiza las condiciones climáticas y retrasos en aduanas; un tercero predice el riesgo de degradación del fármaco y sugiere rutas de desvío urgente.
+
+Por qué destaca: Crítico para productos biológicos e insulinas que pierden eficacia si se rompe la cadena de frío.
+
+6. Analista de Acceso al Mercado y Reembolso (Market Access)
+Flujo: Un agente rastrea decisiones de precios en diferentes países; otro analiza las guías terapéuticas de los sistemas públicos de salud; un tercero sugiere el "precio óptimo de reembolso" para que un fármaco sea aceptado en el catálogo público.
+
+Por qué destaca: Automatiza la consultoría de precios, vital para que el fármaco llegue realmente al paciente.
+
+7. Gestor de Relaciones con Key Opinion Leaders (KOLs)
+Flujo: Un agente busca publicaciones científicas recientes de médicos influyentes; otro analiza su participación en congresos; un tercero sugiere a qué expertos contactar para liderar un nuevo estudio basado en su afinidad científica.
+
+Por qué destaca: Profesionaliza la gestión científica (MSL) y la relación con la comunidad médica.
+
+8. Auditor de Datos de Laboratorio (Quality Assurance)
+Flujo: Un agente revisa los registros electrónicos de los experimentos (ELN); otro verifica que se hayan seguido los protocolos SOP (Standard Operating Procedures); un tercero detecta anomalías o datos sospechosos que sugieran errores de medición.
+
+Por qué destaca: Garantiza la integridad de los datos (Data Integrity) necesaria para cualquier inspección regulatoria.
+
+9. Curador de Literatura Médica para MSLs (Medical Science Liaisons)
+Flujo: Un agente rastrea publicaciones en PubMed sobre una patología específica; otro extrae los "Key Insights" (puntos clave); un tercero genera un boletín semanal para los delegados científicos con la evidencia más reciente.
+
+Por qué destaca: Mantiene al equipo médico actualizado en un entorno donde se publican miles de estudios al día.
+
+10. Especialista en Licitaciones de Compras Hospitalarias
+Flujo: Un agente rastrea concursos públicos de compra de medicamentos en hospitales; otro analiza los precios históricos de adjudicación; un tercero redacta la propuesta técnica ajustada a los pliegos específicos de cada hospital.
+
+Por qué destaca: Maximiza las ventas en el sector público, que representa una parte masiva de los ingresos de las farmacéuticas.
+
+
+Investigación y Desarrollo (R&D)
+11. Predicador de Reposicionamiento de Fármacos
+
+Flujo: Un agente busca dianas terapéuticas similares en bases de datos moleculares; otro escanea literatura científica sobre efectos secundarios "positivos" observados; un tercero propone nuevas enfermedades para las que un fármaco ya aprobado podría ser eficaz.
+
+Valor: Reduce años de investigación al reutilizar moléculas seguras para nuevas indicaciones.
+
+12. Monitor de Biomarcadores Emergentes
+
+Flujo: Un agente rastrea estudios de genómica y proteómica; otro identifica proteínas correlacionadas con la progresión de una enfermedad; un tercero alerta al equipo de R&D sobre potenciales nuevos diagnósticos de precisión.
+
+Valor: Permite liderar el mercado de la medicina personalizada.
+
+13. Gestor de Protocolos de Ensayos Descentralizados (DCT)
+
+Flujo: Un agente analiza la viabilidad de realizar pruebas desde casa; otro coordina la logística de kits de telemedicina; un tercero monitorea la adherencia de los pacientes a través de dispositivos wearables.
+
+Valor: Aumenta la diversidad de pacientes y reduce el abandono en los estudios.
+
+Asuntos Regulatorios y Calidad
+14. Analista de Cambios en Guías Clínicas (NICE/NCCN)
+
+Flujo: Un agente vigila actualizaciones en instituciones internacionales; otro detecta si el fármaco de la compañía sube o baja en el algoritmo de tratamiento; un tercero avisa a ventas para ajustar el mensaje comercial.
+
+Valor: Reacción inmediata ante cambios que dictan qué medicamento debe recetar el médico primero.
+
+15. Automatizador de Variaciones de Registro
+
+Flujo: Un agente detecta cambios en el proceso de fabricación; otro identifica qué países se ven afectados por el cambio de registro; un tercero redacta los formularios de notificación para las agencias reguladoras locales.
+
+Valor: Evita bloqueos de exportación por discrepancias administrativas.
+
+16. Vigilante de Integridad del Packaging (Anti-Counterfeiting)
+
+Flujo: Un agente rastrea números de serie en mercados secundarios; otro analiza reportes de pacientes sobre empaques sospechosos; un tercero identifica patrones geográficos de falsificación para alertar a las autoridades.
+
+Valor: Protege la reputación de la marca y la seguridad del paciente contra el mercado negro.
+
+Inteligencia de Negocio y Comercial
+17. Analista de "Patient Journey" Digital
+
+Flujo: Un agente anonimiza datos de foros de salud; otro mapea los síntomas iniciales hasta el diagnóstico definitivo; un tercero identifica en qué punto del camino los pacientes suelen abandonar el tratamiento.
+
+Valor: Permite diseñar programas de soporte que mejoren la persistencia del paciente.
+
+18. Monitor de Desabastecimiento en Farmacias (Stock-out)
+
+Flujo: Un agente rastrea menciones de falta de stock en redes; otro analiza los inventarios de distribuidores; un tercero activa alertas para que la fábrica reasigne lotes de forma prioritaria.
+
+Valor: Evita la pérdida de ingresos y que el paciente cambie a la competencia por falta de suministro.
+
+19. Perfilador de Transferencia de Valor (Sunshine Act)
+
+Flujo: Un agente recopila gastos en invitaciones, viajes y honorarios a médicos; otro los clasifica según la normativa de transparencia; un tercero genera el reporte oficial para las autoridades sanitarias.
+
+Valor: Garantiza el cumplimiento ético y evita sanciones por falta de transparencia.
+
+20. Optimizador de Mensajes para Visitadores Médicos (e-Detailing)
+
+Flujo: Un agente analiza qué secciones de una tablet de presentación mira más un médico; otro correlaciona ese interés con sus hábitos de prescripción; un tercero sugiere al visitador el tema exacto para su próxima cita.
+
+Valor: Incrementa drásticamente la relevancia de la visita comercial.
+
+Estrategia y Acceso al Mercado
+21. Simulador de Acuerdos de Riesgo Compartido
+
+Flujo: Un agente extrae datos de eficacia del ensayo clínico; otro analiza los costes hospitalarios; un tercero simula modelos financieros donde la farmacéutica solo cobra si el paciente mejora.
+
+Valor: Facilita la entrada de fármacos caros en sistemas públicos con presupuestos limitados.
+
+22. Monitor de Biosimilares y Estrategias "Evergreening"
+
+Flujo: Un agente busca menciones de desarrollo de biosimilares en empresas competidoras; otro analiza patentes secundarias (formulaciones, dosis); un tercero sugiere mejoras en el fármaco original para mantener la exclusividad.
+
+Valor: Prolonga el ciclo de vida de los productos estrella.
+
+23. Analista de sentimiento sobre Precios de Medicamentos
+
+Flujo: Un agente rastrea debates parlamentarios y noticias sobre precios; otro analiza el sentimiento público; un tercero recomienda estrategias de comunicación para mitigar crisis reputacionales por precios elevados.
+
+Valor: Protección crítica de la imagen corporativa.
+
+Producción y Operaciones
+24. Predictor de Fallos en Biorreactores (Mantenimiento Predictivo)
+
+Flujo: Un agente monitorea vibración, presión y pH en la línea de producción; otro compara con fallos históricos; un tercero programa una parada de mantenimiento antes de que se pierda el lote.
+
+Valor: Ahorra millones de euros en productos biológicos descartados por errores técnicos.
+
+25. Auditor de Proveedores de Principios Activos (API)
+
+Flujo: Un agente busca noticias de sanciones ambientales en fábricas químicas (ej. India/China); otro revisa certificaciones de calidad; un tercero emite un semáforo de riesgo para la cadena de suministro.
+
+Valor: Previene paradas de producción por problemas de calidad en la materia prima.
+
+26. Gestor de Devoluciones y Caducidades
+
+Flujo: Un agente analiza las fechas de caducidad en el canal de distribución; otro predice qué lotes no se venderán a tiempo; un tercero sugiere descuentos o donaciones legales antes de que el producto expire.
+
+Valor: Minimiza las pérdidas por destrucción de stock caducado.
+
+Soporte al Paciente y Medicina Digital
+27. Triaje de Chatbot Clínico para Programas de Soporte (PSP)
+
+Flujo: Un agente recibe dudas del paciente sobre la administración del fármaco; otro filtra consultas médicas que requieren un profesional; un tercero ofrece recursos educativos personalizados.
+
+Valor: Mejora la experiencia del paciente y reduce la carga del call center médico.
+
+28. Detector de Desvío de Uso (Off-label Use Monitor)
+
+Flujo: Un agente detecta si un fármaco se está recetando masivamente para algo no aprobado; otro busca evidencia científica que lo sustente; un tercero prepara un informe para decidir si la compañía debe solicitar esa nueva indicación.
+
+Valor: Detecta oportunidades de mercado orgánicas.
+
+29. Auditor de Consentimientos Informados (e-Consent)
+
+Flujo: Un agente verifica que todos los pacientes de un estudio firmaron la última versión; otro detecta firmas faltantes en países específicos; un tercero bloquea el acceso a los datos de esos pacientes hasta que se regularicen.
+
+Valor: Blindaje legal total ante auditorías de ética clínica.
+
+30. Monitor de "Medicina de Precisión" de la Competencia
+
+Flujo: Un agente busca qué tests genéticos están pidiendo los oncólogos; otro identifica qué fármacos van asociados a esos tests; un tercero reporta si la competencia está "secuestrando" el diagnóstico para favorecer su molécula.
+
+Valor: Permite competir en el ecosistema de diagnóstico-fármaco.
